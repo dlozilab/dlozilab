@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dlozi Mthethwa, Skills Facilitator at Mlab
 - 👀 I’m interested in DevOps, System design and IoT
-- ⚡ Fun fact: The Universe is mental.
+- ⚡ Fun fact: The Universe is mental: it proceeds from the mind of the All.
 
 <!---
 dlozilab/dlozilab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
