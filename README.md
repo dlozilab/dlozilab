@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Digital Solutions Developer</h3>
 
 
-- 📫 How to reach me **dlozi.mthethwa@gmail.com**
+- 📫 How to reach me **dlozi@mlab.co.za**
 
 - 📄 Know about my experiences [https://profile.indeed.com/p/dlozim-ysc1f5u](https://profile.indeed.com/p/dlozim-ysc1f5u)
 
