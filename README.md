@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Dlozi Mthethwa</h1>
-<h3 align="left">A passionate Digital Solutions Developer</h3>
+<h3 align="left">A passionate Digital Solutions Architech</h3>
 
 
 - 📫 How to reach me **dlozi@mlab.co.za**
@@ -12,15 +12,15 @@
 
 <h3 align="left">🛠 Tech Stack</h3>
 
-- 💻   Python
+- 💻   Python | C++ | Java
 
-- 🌐   HTML | CSS | JavaScript | Bootstrap | Node.js | Reactjs
+- 🌐   HTML | CSS | JavaScript | Node.js | Reactjs | React Native
   
 - 🛢   MySQL | MongoDB 
   
-- 🔧  Git
+- 🔧   Git
   
-- 🖥  UI / UX | Figma | Photoshop | InDesign 
+- 🖥   UI / UX | Figma | Photoshop | InDesign 
 
 
 <h3 align="left">Languages and Tools:</h3>
