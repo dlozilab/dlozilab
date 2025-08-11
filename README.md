@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Dlozi Mthethwa</h1>
-<h3 align="left">A passionate Digital Solutions Architech</h3>
+<h3 align="left">A passionate Digital Solutions Architect</h3>
 
 
 - 📫 How to reach me **dlozi@mlab.co.za**
