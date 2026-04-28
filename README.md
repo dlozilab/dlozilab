@@ -30,8 +30,7 @@ DevOps &nbsp;·&nbsp; Systems Design &nbsp;·&nbsp; IoT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dlozimthethwa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dlozimthethwa)
 [![GitHub](https://img.shields.io/badge/GitHub-Dlozlami-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dlozlami)
-[![Twitter](https://img.shields.io/badge/Twitter-uxdlozi-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/uxdlozi)
-[![Email](https://img.shields.io/badge/Email-dlozi.mthethwa@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dlozi.mthethwa@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dlozi@mlab.co.za-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dlozi@mlab.co.za)
 
 ---
 
